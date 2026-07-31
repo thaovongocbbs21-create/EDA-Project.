@@ -74,7 +74,7 @@ These statistics provide an overall summary of the income and living cost distri
 
 ## 1. Relationship between Average Monthly Income and Cost of Living
 
-![Scatter Plot](images/scatter_plot.png)
+![Scatter Plot](images/scatter.png)
 
 ### Interpretation
 
@@ -86,7 +86,7 @@ The points are widely dispersed across the graph, indicating that there is **no 
 
 ## 2. Distribution of Average Monthly Income
 
-![Histogram](images/histogram_income.png)
+![Histogram](images/histogram.png)
 
 ### Interpretation
 
@@ -98,7 +98,7 @@ The income values are relatively spread across different income intervals, sugge
 
 ## 3. Average Monthly Income by Region
 
-![Bar Chart](images/bar_region.png)
+![Bar Chart](images/bar.png)
 
 ### Interpretation
 
