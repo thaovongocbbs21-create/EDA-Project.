@@ -19,7 +19,7 @@ The objective of this project is to explore the dataset, clean the data, generat
 
 ### Dataset Summary
 
-- Number of observations: **200**
+- Number of observations: **196**
 - Number of variables: **4**
 - Missing values identified: **5**
 - Duplicate records: **0**
@@ -178,7 +178,7 @@ The visualizations help summarize important patterns in the dataset and demonstr
 
 **Võ Ngọc Phương Thảo**
 
-Business Analytics Student
+Human Resources Student
 
 Eastern International University (EIU)
 
